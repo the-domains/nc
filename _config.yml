@@ -1,4 +1,3 @@
-layout_spectrum: 0.8940647663548589
 typography_spectrum: 0.015739649534225464
 color:
   brandStrength: 0.890536152292043
@@ -11,5 +10,7 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+layout_spectrum: 0.8940647663548589
 name: 'NC  / '
+title: NC //
 description: Video & Motion Graphics Designer
